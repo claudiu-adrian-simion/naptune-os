@@ -23,6 +23,6 @@ modules:
       packages:
         - nano
         - bazaar
-        - vim
+        - vim-data
         
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
